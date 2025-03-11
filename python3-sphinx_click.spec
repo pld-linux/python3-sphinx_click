@@ -7,7 +7,7 @@ Summary:	Sphinx extension that automatically documents click applications
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa automatycznie dokumentujące aplikacje clicka
 Name:		python3-sphinx_click
 Version:	5.1.0
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-click/
